@@ -1,0 +1,28 @@
+.cabeçalho{
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: rgb(18, 98, 151);
+}
+
+.intro{
+    background-color: rgb(18, 98, 151);
+    text-align: center;
+    padding: 30px;
+}
+
+.imagens, img{
+    padding: 40px;
+}
+
+.sobre{
+    background-color: rgb(18, 98, 151);
+    color: azure;
+}
+
+footer{
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: rgb(193, 230, 255);
+    padding: 20px;
+    text-decoration: none;
+}

@@ -1,0 +1,44 @@
+.cabeçalho{
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: rgb(18, 98, 151);
+}
+
+.menu{
+    text-align: center;
+    background-color: rgb(18, 98, 151);
+    padding: 20px ;
+}
+
+.intro{
+    background-color: rgb(18, 98, 151);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 30px;
+}
+
+.botoes2{
+    padding: 10px ;
+    text-decoration: none;
+    color: azure;
+    text-align: center;
+}
+.botoes3{
+    padding: 10px ;
+    text-decoration: none;
+    color: azure;
+    text-align: center;
+}
+
+.imagens, img{
+    text-align: center;
+    padding: 40px;
+}
+
+footer{
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: rgb(193, 230, 255);
+    padding: 20px;
+    text-decoration: none;
+}
